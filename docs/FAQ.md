@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "FAQ"
 nav_order: 3
 ---
 
-=======
->>>>>>> 4a93968 (Initial config of MkDocs Static Site - Derived from Klipper3D Documentation.)
 # Frequently Asked Questions
 
 ## Where is the latest BOM (Bill of Materials)?
@@ -19,7 +16,6 @@ We are accepting serials over on the [Positron 3D Discord](https://discord.com/i
 
 ## Where can I get help with my build?
 
-<<<<<<< HEAD
 The community over on the [Positron 3D Discord](https://discord.com/invite/positron) is very helpful.  Check out the `#prusawire-questions` channel there.
 
 ## My NiteHawk-SB loses connection when there is a restart
@@ -40,6 +36,3 @@ Instructions from @Telefaksi (PW.0004):
 >Custom serial sticker for Prusawire. Made for 24 mm tape, I used Brother TZe-M951 Black/Matt Silver tape. Included are Affinity Designer 2 package folder as .zip, .stl and .step files for printable cutting stencil. QR-code is made with Affinity Designer's QR-code tool so url can be edited to link to your serial request post. I exported .png image and imported it to Brother's P-touch Editor for printing.  
 >Fonts are included in the package but in case you want to download them the fonts are from Google fonts. Play in regular and bold. https://fonts.google.com/specimen/Play
 >In images folder is WEEE marking as vector image.
-=======
-The community over on the [Positron 3D Discord](https://discord.com/invite/positron) is very helpful.  Check out the `#prusawire-questions` channel there.
->>>>>>> 4a93968 (Initial config of MkDocs Static Site - Derived from Klipper3D Documentation.)

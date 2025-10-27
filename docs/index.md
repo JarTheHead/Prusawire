@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 layout: default
 title: Home
 nav_order: 1
@@ -8,15 +7,6 @@ nav_order: 1
 # Positron3D's Prusawire Documentation
 
 ![](images/prusawire_2025b1_render.png)
-=======
-hide:
-  - toc
-title: Welcome
----
-
-
-![](img/prusawire_2025b1_render.png){ .center-image, .width400 }
->>>>>>> 4a93968 (Initial config of MkDocs Static Site - Derived from Klipper3D Documentation.)
 
 A wholly unofficial Prusa MK3 and MK4 to Switchwire total conversion mod, from Positron's April Fools of 2025.
 
@@ -43,11 +33,7 @@ Additionally, the following says this printer is for you:
  - You want to take your first steps into RepRap beyond Prusa, and Voron is an exciting route.
 
 
-<<<<<<< HEAD
 ## Technical Support
-=======
- ## Technical Support
->>>>>>> 4a93968 (Initial config of MkDocs Static Site - Derived from Klipper3D Documentation.)
 
 Prusawire, technically, does not count as a Voron Switchwire. We ask you kindly not to nag the Voron Design team for technical support.
 
@@ -56,8 +42,4 @@ Instead, please [join the Positron3D Discord](https://discord.com/invite/positro
 
 ## Serial Numbers
 
-<<<<<<< HEAD
 We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
-=======
-We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
->>>>>>> 4a93968 (Initial config of MkDocs Static Site - Derived from Klipper3D Documentation.)
