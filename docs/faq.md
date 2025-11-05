@@ -37,7 +37,7 @@ If you are running V1.5 of the LDO Motors NiteHawh-SB USB board (the board that 
 
 ![](images/nitehawbsb_fix.png)
 
-## The Raspberry Pi is having trouble connecting to the controboard after restarts
+## The Raspberry Pi is having trouble connecting to the controlboard after restarts
 
 This is a common issue.  See https://www.answeroverflow.com/m/1061111415471079444
 

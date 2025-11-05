@@ -2,8 +2,11 @@
 
 Updated periodically to note significant design changes, fixes, and enhancements.
 
-- 2025-10-27
+- 2025-11-05
     - Documentation site launched ([https://positron3d.github.io/Prusawire](https://positron3d.github.io/Prusawire)) (via @erikbuild)
+- 2025-10-31
+    - Update XZ Blocks to have a variant for Prusa-style slim M3 Square Nuts as well as V0-style M3 Square Nuts. (via @Safe-ty)
+    - Update Upper Idler Blocks to increase tolerance band for Z-rod lengths. (via @Safe-ty)
 - 2025-10-11
     - y_idler_bracket replaced / updated with much stronger version. (via @erikbuild)
     - Added Rod Length Compatibility to motor mounts and idler brackets (via @Safe-ty)

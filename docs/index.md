@@ -8,7 +8,7 @@ nav_order: 1
 
 ![](images/prusawire_2025b1_render.png)
 
-A wholly unofficial Prusa MK3 and MK4 to Switchwire total conversion mod, from Positron's April Fools of 2025.
+An unofficial Prusa MK3 and MK4 to Switchwire total conversion mod, from Positron's April Fools of 2025.
 
 
 ## About
@@ -43,3 +43,35 @@ Instead, please [join the Positron3D Discord](https://discord.com/invite/positro
 ## Serial Numbers
 
 We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
+
+
+## Credits 
+
+Many thanks to all the awesome people and companies that have made this possible. Notably:
+
+ - Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!
+ - Voron Design - Switchwire
+ - Positron 3D Team - Too many to name, you know who you are <3
+   - Early development team:
+     - Nomad's Galaxy
+     - Koosh
+     - Birb
+ - Jason @ LDO Motors - Part sponsorship
+ - Levendigs - Part sponsorship 
+ - Early access testers:-
+    - Killa_Prints
+    - LinksLab
+    - Safe
+    - Silicon
+    - TheNexusAvenger
+    - torsten
+ - Contributors since Beta 1
+    - einarjh
+    - erikbuild
+
+## Team
+
+Prusawire is currently maintained by Nomad's Positron 3D Team.
+
+Design Lead: @Safe-ty
+Documentation Lead: @erikbuild

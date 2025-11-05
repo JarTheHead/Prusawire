@@ -2,7 +2,7 @@
 
 ![Render](Assets/render.png)
 
-A wholly unofficial Prusa MK3 and MK4 total conversion mod, from Positron's April Fools of 2025.
+An unofficial Prusa MK3 and MK4 total conversion mod, from Positron's April Fools of 2025.
 
 
 ## About
@@ -32,8 +32,10 @@ Additionally, the following says this printer is for you:
 
 First of all, thank you! Development costs have been mostly self-funded, with filament sponsored by Levendigs, and LDO Motors for providing the funds for the Prusa MK4 frame.
 
- - Buy me a Ko-Fi
- - Support Positron3D to fund future endeavors
+ - Support Positron3D to fund future endeavors: [Positron3D Merch](https://nomadsgalaxy-shop.fourthwall.com/)
+ - [Buy @ellafoxo (the original creator) a Ko-Fi](https://ko-fi.com/ellafoxo)
+
+ Please consider posting your completed make to [@ellafoxo's Printables Page for the Beta 1 release](https://www.printables.com/model/1363547-prusawire-2025b1-beta-1/comments)!
 
 ## 2025 - Beta 1
 
@@ -89,6 +91,9 @@ Many thanks to all the awesome people and companies that have made this possible
     - Silicon
     - TheNexusAvenger
     - torsten
+ - Contributors since Beta 1
+    - einarjh
+    - erikbuild
 
 ## Extra Credits for Existing Printed Parts
 
@@ -96,3 +101,10 @@ See the collection for the most up to date! To name them:
 
  - Printable M3 T-Nuts for 3030 Extrusion, by Kapplion
  - Stealthburner umbilical strain relief, by nagelwerkstatt
+
+## Team
+
+Prusawire is currently maintained by Nomad's Positron 3D Team.
+
+Design Lead: @Safe-ty
+Documentation Lead: @erikbuild
