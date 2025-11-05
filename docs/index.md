@@ -30,12 +30,12 @@ Beta 2 is coming SOON(tm).
 
 Pick one of the following:
 
- - You have an old MK3, MK3S, or MK3S+, and you want to teach an old dog new tricks and are on a budget
- - You upgraded from MK4S to a Core ONE, and have a leftover frame. You are okay spending money on building a new printer with that hardware.
+- You have an old MK3, MK3S, or MK3S+, and you want to teach an old dog new tricks and are on a budget
+- You upgraded from MK4S to a Core ONE, and have a leftover frame. You are okay spending money on building a new printer with that hardware.
 
 Additionally, the following says this printer is for you: 
 
- - You want to take your first steps into RepRap beyond Prusa, and Voron is an exciting route.
+- You want to take your first steps into RepRap beyond Prusa, and Voron is an exciting route.
 
 
 ## Technical Support
@@ -49,28 +49,39 @@ Instead, please [join the Positron3D Discord](https://discord.com/invite/positro
 
 We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
 
+## Want to Support the Project?
+
+First of all, thank you! Development costs have been mostly self-funded, with filament sponsored by Levendigs, and LDO Motors for providing the funds for the Prusa MK4 frame.
+
+- Support Positron3D to fund future endeavors: 
+    - [Donate to Positron3D](https://www.paypal.com/donate/?hosted_button_id=YGPRVTSHN4FQG)
+    - [Positron3D Merch](https://nomadsgalaxy-shop.fourthwall.com/)
 
 ## Credits 
 
-Many thanks to all the awesome people and companies that have made this possible. Notably:
+Many thanks to all the awesome people and companies that have made this possible.
 
- - Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!
- - Voron Design - Switchwire
- - Positron 3D Team - Too many to name, you know who you are <3
-   - Early development team:
-     - Nomad's Galaxy
-     - Koosh
-     - Birb
- - Jason @ LDO Motors - Part sponsorship
- - Levendigs - Part sponsorship 
- - Early access testers:-
+Most importantly:
+- [Ella Fox](https://printables.com/@ellafoxo), _the architect of Beta 1_ - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
+
+And also:
+- Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!
+- Voron Design - Switchwire
+- Positron 3D Team - Too many to name, you know who you are <3
+- Early development team:
+    - Nomad's Galaxy
+    - Koosh
+    - Birb
+- Jason @ LDO Motors - Part sponsorship
+- Levendigs - Part sponsorship 
+- Early access testers:
     - Killa_Prints
     - LinksLab
     - Safe
     - Silicon
     - TheNexusAvenger
     - torsten
- - Contributors since Beta 1
+- Contributors since Beta 1
     - einarjh
     - erikbuild
 
@@ -78,5 +89,5 @@ Many thanks to all the awesome people and companies that have made this possible
 
 Prusawire is currently maintained by Nomad's Positron 3D Team.
 
-Design Lead: @Safe-ty
-Documentation Lead: @erikbuild
+- Design Lead: @Safe-ty
+- Documentation Lead: @erikbuild
