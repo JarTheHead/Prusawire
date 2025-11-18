@@ -8,7 +8,7 @@ nav_order: 1
 
 ![](images/prusawire_2025b1_render.png)
 
-An unofficial Prusa MK3 and MK4 to Switchwire total conversion mod, from Positron's April Fools of 2025.
+An unofficial Prusa MK3 and MK4 to Switchwire total conversion mod, from Positron 3D's April Fools of 2025.
 
 ## Current Release
 
@@ -87,7 +87,7 @@ And also:
 
 ## Team
 
-Prusawire is currently maintained by Nomad's Positron 3D Team.
+Prusawire is currently maintained by the Positron 3D Team.
 
 - Design Lead: @Safe-ty
 - Documentation Lead: @erikbuild

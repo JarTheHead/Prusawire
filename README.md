@@ -112,7 +112,7 @@ See the collection for the most up to date! To name them:
 
 ## Team
 
-Prusawire is currently maintained by Nomad's Positron 3D Team.
+Prusawire is currently maintained by the Positron 3D Team.
 
 - Design Lead: @Safe-ty
 - Documentation Lead: @erikbuild
